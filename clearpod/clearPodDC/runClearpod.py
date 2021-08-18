@@ -5,7 +5,7 @@ import sys, time
 
 def usage():
 	print("python3 runClearpod.py []"
-		"\nEnter POD between 1-16 or enter 'all' for all devices"
+		"\nEnter POD between 1-18 or enter 'all' for all devices"
 		"\nView errorLogs.txt for any pods that did not clear and donePods.txt to check which cleared"
 		"\n To run routers only or switches only, enter 'allRouters' / 'allSwitches' ")
 
